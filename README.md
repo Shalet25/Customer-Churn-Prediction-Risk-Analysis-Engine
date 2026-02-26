@@ -1,7 +1,5 @@
 📊 Customer Churn Prediction & Risk Analysis Engine
-👤 Author
 
-Shalet John Chinnaraja
 
 📌 Project Overview
 
